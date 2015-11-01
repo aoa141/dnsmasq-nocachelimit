@@ -1,4 +1,6 @@
 # dnsmasq-nocachelimit
+AUTHOR: Alexandro Olivares Acosta <aoa141@gmail.com>
+
 Personal fork for dnsmasq that removes the cache limit of 10000 names.
 
 Meant for modern servers with lots of RAM.
